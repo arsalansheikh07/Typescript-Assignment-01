@@ -1,0 +1,15 @@
+{
+  "name": "miss-hina-naseer-yt",
+  "version": "1.0.0",
+  "description": "\"# Typescript-Assignment-01\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  }
+}
